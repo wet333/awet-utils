@@ -18,5 +18,8 @@
   "homepage": "https://github.com/wet333/awet-utils#readme",
   "bin": {
     "awet-utils": "index.js"
+  },
+  "dependencies": {
+    "minimist": "^1.2.7"
   }
 }
